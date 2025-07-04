@@ -1,5 +1,5 @@
 # Web-Scraping-CFM
-Web scraping do site CFM (Conselho Federal de Medicina) para listagem dos dados públicos dos médicos dos municípios dos estados de RJ e SP.
+Web scraping do site CFM (Conselho Federal de Medicina) para listagem dos dados públicos de médicos dos municípios dos estados de RJ e SP.
 
 # Tecnologias:
 selenium, pandas, random, time, os e logging
